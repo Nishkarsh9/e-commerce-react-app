@@ -67,9 +67,9 @@ You can list the products by clicking on the categories, add and remove the prod
 - [x] Fetching product data, listing by categories and product detail page.
 - [x] Add to favorites and favorites page.
 - [x] Add to cart and cart page.
-- [ ] Responsive Design
-      - [ ] Navbar
-      - [ ] Card
-- [ ] Complete the sign in and sign up process.
-- [ ] Create order page.
+- [x] Responsive Design
+      - [x] Navbar
+      - [x] Card
+- [x] Complete the sign in and sign up process.
+- [x] Create order page.
 
